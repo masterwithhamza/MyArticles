@@ -1,5 +1,5 @@
 ---
-title: "1# The A - Z Of Introduction To Linux: A Beginner\'s Guide"
+title: "#1   The A - Z Of Introduction To Linux: A Beginner\'s Guide"
 datePublished: Mon Aug 14 2023 06:10:19 GMT+0000 (Coordinated Universal Time)
 cuid: cllah726k000909jqbqn57vt9
 slug: 1-the-a-z-of-introduction-to-linux-a-beginners-guide
