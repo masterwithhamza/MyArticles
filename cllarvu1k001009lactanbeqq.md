@@ -5,6 +5,7 @@ seoDescription: "Unveil the unique strengths of Ubuntu's user-friendliness, Cent
 datePublished: Mon Aug 14 2023 11:09:31 GMT+0000 (Coordinated Universal Time)
 cuid: cllarvu1k001009lactanbeqq
 slug: 2-the-ultimate-guide-to-linux-distributions-comparison
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692259430950/5ce68da3-48eb-421b-8e69-3c5ab1e8b3f7.png
 tags: devops, hamzarehmansheikh4
 
 ---
