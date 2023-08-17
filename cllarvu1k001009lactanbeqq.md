@@ -5,12 +5,10 @@ seoDescription: "Unveil the unique strengths of Ubuntu's user-friendliness, Cent
 datePublished: Mon Aug 14 2023 11:09:31 GMT+0000 (Coordinated Universal Time)
 cuid: cllarvu1k001009lactanbeqq
 slug: 2-the-ultimate-guide-to-linux-distributions-comparison
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692259430950/5ce68da3-48eb-421b-8e69-3c5ab1e8b3f7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692259540318/95f180de-38cb-4742-9d4e-ebee47d465f9.jpeg
 tags: devops, hamzarehmansheikh4
 
 ---
-
-![How to choose the right Linux distribution?](https://oracle-patches.com/images/2021/07/14/Linux_distr_large.jpg align="left")
 
 **Introduction:**
 
