@@ -3,6 +3,7 @@ title: "3# Mastering Command Line Basics: Navigating and Managing Files"
 datePublished: Thu Aug 17 2023 07:50:21 GMT+0000 (Coordinated Universal Time)
 cuid: cllev3902000i09lb3cjaa9dr
 slug: 3-mastering-command-line-basics-navigating-and-managing-files
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692259738274/04aad29e-703d-466c-887c-72a1360722b3.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692259259119/ea170c6e-9fd3-46a7-81c0-4133c3e09f95.png
 tags: devops, devops-articles, hamzarehmansheikh4
 
