@@ -4,7 +4,7 @@ datePublished: Mon Aug 14 2023 06:10:19 GMT+0000 (Coordinated Universal Time)
 cuid: cllah726k000909jqbqn57vt9
 slug: 1-the-a-z-of-introduction-to-linux-a-beginners-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691992157496/6044e03a-d4f9-417a-a5a3-8b96808f4f46.jpeg
-tags: devops
+tags: linux, devops, linux-for-beginners, devops-articles, hamzarehmansheikh4
 
 ---
 
