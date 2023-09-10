@@ -1,11 +1,11 @@
 ---
-title: "2# The Ultimate Guide To Linux Distributions Comparison:"
+title: "Day3# The Ultimate Guide To Linux Distributions Comparison:"
 seoTitle: "The Ultimate Guide To Linux Distributions Comparison:"
 seoDescription: "Unveil the unique strengths of Ubuntu's user-friendliness, CentOS's rock-solid stability, and Fedora's cutting-edge innovation in this comprehensive compari"
 datePublished: Mon Aug 14 2023 11:09:31 GMT+0000 (Coordinated Universal Time)
 cuid: cllarvu1k001009lactanbeqq
-slug: 2-the-ultimate-guide-to-linux-distributions-comparison
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692259540318/95f180de-38cb-4742-9d4e-ebee47d465f9.jpeg
+slug: day3-the-ultimate-guide-to-linux-distributions-comparison
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694345222122/84bb591f-71fb-4511-bcb6-f9cec1bf86ce.png
 tags: devops, hamzarehmansheikh4
 
 ---
