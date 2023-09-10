@@ -1,9 +1,9 @@
 ---
-title: "1# The A - Z Of Introduction To Linux: A Beginner\'s Guide"
+title: "Day2# The A - Z Of Introduction To Linux: A Beginner\'s Guide"
 datePublished: Mon Aug 14 2023 06:10:19 GMT+0000 (Coordinated Universal Time)
 cuid: cllah726k000909jqbqn57vt9
-slug: 1-the-a-z-of-introduction-to-linux-a-beginners-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691992157496/6044e03a-d4f9-417a-a5a3-8b96808f4f46.jpeg
+slug: day2-the-a-z-of-introduction-to-linux-a-beginners-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694344712065/224f5a50-c0c8-4d5d-be5b-c0d18c7b64f5.png
 tags: linux, devops, linux-for-beginners, devops-articles, hamzarehmansheikh4
 
 ---
