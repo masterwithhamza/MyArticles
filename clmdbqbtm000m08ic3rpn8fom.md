@@ -3,6 +3,7 @@ title: "Day1 # Understanding Operating Systems: Types and Roles"
 datePublished: Sun Sep 10 2023 10:40:21 GMT+0000 (Coordinated Universal Time)
 cuid: clmdbqbtm000m08ic3rpn8fom
 slug: day1-understanding-operating-systems-types-and-roles
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694344174441/1471f99a-bc29-4bfd-b547-c3b0a8ba7a01.png
 tags: linux, devops, devops-articles, devops-journey, masterwithhamza
 
 ---
@@ -14,6 +15,8 @@ In the world of technology, one fundamental piece of software quietly operates b
 ## **What is an Operating System?**
 
 At its core, an operating system is a software program that acts as an intermediary between the user and the computer hardware. An operating system (OS) manages computer hardware and software resources and provides common services for computer programs.
+
+![What is Operating System (OS)? Definition, Types, and Functions](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2022/08/04124759/image-9.png align="left")
 
 ## **Example:**
 
@@ -69,7 +72,7 @@ At its core, an operating system is a software program that acts as an intermedi
 
 ### **3\. Single-Tasking Operating Systems:**
 
-* These can only execute one task at a time. DOS (Disk Operating System) is a classic example.
+* These can only execute one task at a time. DOS (Disk Operating System) is a classic example. DOS or Disk Operating Systems are the very initial operating systems of the computer world. This was an era when computers were not advanced graphically. There used to be a plain screen with a black/blue background and white textual commands written on it. This was the Disk Operating System.
     
 
 ### **4\. Multi-Tasking Operating Systems:**
