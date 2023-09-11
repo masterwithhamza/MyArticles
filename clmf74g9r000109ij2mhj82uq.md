@@ -1,8 +1,8 @@
 ---
-title: "Create Your first Virtual Machine on Virtual Box"
+title: "Day5 # Create Your first Virtual Machine on Virtual Box"
 datePublished: Mon Sep 11 2023 18:06:55 GMT+0000 (Coordinated Universal Time)
 cuid: clmf74g9r000109ij2mhj82uq
-slug: create-your-first-virtual-machine-on-virtual-box
+slug: day5-create-your-first-virtual-machine-on-virtual-box
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694450301781/fd5d7dea-350a-4f9c-a5c8-dc3b5568d8cb.png
 tags: linux, devops, linux-for-beginners, devops-articles, masterwithhamza
 
