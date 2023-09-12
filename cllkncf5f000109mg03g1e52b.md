@@ -1,8 +1,8 @@
 ---
-title: "Day7 # Demystifying Package Management: A Guide to apt, yum, dnf, pacman, and More"
+title: "Day7 # Package Management:  apt, yum, dnf and pacman"
 datePublished: Mon Aug 21 2023 09:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: cllkncf5f000109mg03g1e52b
-slug: day7-demystifying-package-management-a-guide-to-apt-yum-dnf-pacman-and-more
+slug: day7-package-management-apt-yum-dnf-and-pacman
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694494669555/2fd918f9-6e63-4bb1-bebb-57e2bdb22bb7.png
 tags: linux, devops, linux-for-beginners, devops-articles, masterwithhamza
 
