@@ -147,3 +147,7 @@ This is used to select text line by line.
 7\. ctrl + v
 
 This is used to select rectangular blocks.
+
+## **Conclusion**
+
+VI and its modern incarnation, Vim, remain powerful and indispensable text editors, standing tall in the world of text editing. Whether you're a programmer, a writer, or a system administrator, VI's versatility and robust features make it a valuable addition to your toolkit. Dive in, start learning, and unlock the full potential of this venerable text editor.
