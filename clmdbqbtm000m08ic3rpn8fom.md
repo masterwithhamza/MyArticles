@@ -48,12 +48,7 @@ At its core, an operating system is a software program that acts as an intermedi
 
 ### **5\. Input and Output Management:**
 
-* OSs facilitate communication between hardware devices and applications, allowing you to interact with peripherals like printers, keyboards, and displays.
-    
-
-### **6\. Security and Access Control:**
-
-* Operating systems enforce security measures, protecting data from unauthorized access and ensuring system integrity.
+* OSs facilitate communication between hardware devices and applications, allowing you to interact with printers, keyboards, and displays.
     
     ![8 Key Data Science Team Roles](https://www.datascience-pm.com/wp-content/uploads/2020/01/roles2.jpg align="left")
     
@@ -67,7 +62,7 @@ At its core, an operating system is a software program that acts as an intermedi
 
 ### **2\. Multi-User Operating Systems:**
 
-* These OSs are optimized for servers and environments where multiple users need simultaneous access. Linux servers and Windows Server are prime examples.
+* These OSs are optimized for servers and environments where multiple users need simultaneous access. Linux servers and Windows servers are prime examples.
     
 
 ### **3\. Single-Tasking Operating Systems:**
