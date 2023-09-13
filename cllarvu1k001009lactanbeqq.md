@@ -26,7 +26,7 @@ Ubuntu is a user-friendly distribution that's perfect for beginners and experien
     
 * **Long Term Support (LTS):** LTS releases are supported for five years, making Ubuntu a reliable choice for stability.
     
-* **Unity Desktop (formerly):** Ubuntu offered a distinctive Unity desktop, though it has now transitioned to the GNOME desktop environment.
+* **APT Package Manager:** Ubuntu uses the APT package manager for efficient software management.
     
 
 **Use Cases:**
@@ -65,8 +65,6 @@ Ubuntu is a user-friendly distribution that's perfect for beginners and experien
         **Features:**
         
         * **Regular Releases:** Fedora follows a rapid release cycle, bringing the latest software to users quickly.
-            
-        * **GNOME Desktop:** Fedora Workstation showcases the latest GNOME desktop experience, with a focus on modern design.
             
         * **Fedora Spins:** Different editions of Fedora, known as spins, cater to specific use cases like gaming and design.
             
