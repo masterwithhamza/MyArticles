@@ -3,6 +3,7 @@ title: "Day13 # Guide to Working with Text Files (Basic Commands)"
 datePublished: Sun Sep 17 2023 04:25:45 GMT+0000 (Coordinated Universal Time)
 cuid: clmmyfjjg000609jk7ludgmrw
 slug: day13-guide-to-working-with-text-files-basic-commands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694924771056/1fa27f3e-6840-4017-a2f8-1b04018282d7.png
 tags: linux, devops, linux-for-beginners, devops-articles, masterwithhamza
 
 ---
@@ -47,7 +48,7 @@ This command is used to show the last ten lines of a file but you can specify a 
 
 10\. tail -f file1
 
-This command is used to monitor the last few lines of a file in real-time as new content is appended to it.
+This command is used to monitor the last few lines of a file in real time as new content is appended to it.
 
 11\. sort
 
