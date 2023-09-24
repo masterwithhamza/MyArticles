@@ -3,7 +3,7 @@ title: "Day18 # Linux File Compression and Archiving: zip, gzip, bzip2, tar"
 datePublished: Sun Sep 24 2023 12:57:02 GMT+0000 (Coordinated Universal Time)
 cuid: clmxgs0vt000009l2b636aadi
 slug: day18-linux-file-compression-and-archiving-zip-gzip-bzip2-tar
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695550360905/29b04f36-bf45-48c3-b1ce-b7d7a4bc14fa.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695560594703/2773f41b-0ce4-4b35-b9c5-ce805d2bc8d6.png
 tags: linux, devops, linux-for-beginners, devops-articles, masterwithhamza
 
 ---
