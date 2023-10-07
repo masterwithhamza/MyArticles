@@ -1,8 +1,8 @@
 ---
-title: "Understanding Linux Firewall Management with UFW"
+title: "Day27 # Understanding Linux Firewall Management with UFW"
 datePublished: Sat Oct 07 2023 11:09:17 GMT+0000 (Coordinated Universal Time)
 cuid: clnfxnipz00000al8a54f63t6
-slug: understanding-linux-firewall-management-with-ufw
+slug: day27-understanding-linux-firewall-management-with-ufw
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696676888543/a38f6d41-01c0-401d-8640-952b94e6408e.png
 tags: linux, devops, linux-for-beginners, devops-articles, masterwithhamza
 
