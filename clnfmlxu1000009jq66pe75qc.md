@@ -1,8 +1,8 @@
 ---
-title: "Mastering Disk Management and Disk Partitioning in Linux"
+title: "Day25 # Mastering Disk Management and Disk Partitioning in Linux"
 datePublished: Sat Oct 07 2023 06:00:07 GMT+0000 (Coordinated Universal Time)
 cuid: clnfmlxu1000009jq66pe75qc
-slug: mastering-disk-management-and-disk-partitioning-in-linux
+slug: day25-mastering-disk-management-and-disk-partitioning-in-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696658369270/6fa549f0-4da9-4d59-aaf9-6c11f84a1233.png
 tags: linux, devops, linux-for-beginners, devops-articles, masterwithhamza
 
