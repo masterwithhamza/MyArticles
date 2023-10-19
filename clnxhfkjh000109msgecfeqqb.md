@@ -3,7 +3,7 @@ title: "Lecture1 # Demystifying the Shell: Your Computer's Command Center"
 datePublished: Thu Oct 19 2023 17:55:03 GMT+0000 (Coordinated Universal Time)
 cuid: clnxhfkjh000109msgecfeqqb
 slug: lecture1-demystifying-the-shell-your-computers-command-center
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697737512005/a18ebb45-f0ce-479e-a209-d55369cc6ff3.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697739246878/b2b8497a-04d0-4811-8a27-dcdbdc893c88.png
 tags: linux, devops, shell-scripting, devops-articles, masterwithhamza
 
 ---
