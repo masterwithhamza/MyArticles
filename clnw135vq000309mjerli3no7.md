@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 In Python, a dictionary is a built-in data type that allows you to store collections of key-value pairs. Each key in a dictionary is unique, and it maps to a corresponding value. Dictionaries are incredibly versatile and are often used to represent data structures like maps, tables, or simple databases.
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 ### **Creating a Dictionary**
 
 ```python
