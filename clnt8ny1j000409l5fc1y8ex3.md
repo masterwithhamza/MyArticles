@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Error handling with `try` and `except` is a crucial aspect of Python programming that allows you to handle exceptions and prevent your program from crashing when it encounters unexpected errors. It's a way to gracefully manage and recover from exceptional conditions.
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 In Python, you use a `try` block to enclose code that might raise an exception. You then follow it with one or more `except` blocks that specify how to handle different types of exceptions. If an exception occurs within the `try` block, Python checks if there's a corresponding `except` block for that exception. If one is found, the code inside the `except` block is executed.
 
 Here's the basic structure:
