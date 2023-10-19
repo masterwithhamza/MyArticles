@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Python is a friendly and powerful programming language that's perfect for beginners. Whether you want to build websites, create games, or solve real-world problems, Python can help you get started. In this article, we'll introduce you to Python using easy words and simple examples, so you can begin your coding journey with confidence.
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 ## **What is Python?**
 
 Python is a high-level programming language that's known for its simplicity and readability. It was created in the late 1980s by Guido van Rossum and has since become one of the most popular programming languages worldwide. Python is often used for web development, data analysis, artificial intelligence, and more.
