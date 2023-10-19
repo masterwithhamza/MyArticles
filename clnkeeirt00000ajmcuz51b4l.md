@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Variables and comments are essential elements in Python programming that help you manage and document your code effectively. Let's explore them in detail:
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 ## **Variables in Python**
 
 In Python, variables are used to store and manage data. You can think of a variable as a named container that holds a value. Here's how you declare and use variables in Python:
@@ -65,7 +67,6 @@ You can create a single-line comment by using the `#` symbol. Everything after `
 age = 30  # You can also add comments after code on the same line
 ```
 
-  
 Variables and comments are essential elements in Python programming that help you manage and document your code effectively. Let's explore them in detail:
 
 ## **Variables in Python**
