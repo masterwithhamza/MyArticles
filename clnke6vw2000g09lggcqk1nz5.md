@@ -10,6 +10,8 @@ tags: python, devops, marketing, python-beginner, devops-articles
 
 In Python, data types are used to categorize and represent different types of values that you can manipulate in your programs. Understanding data types is essential because they determine how you can use and operate on your data. Python provides a variety of built-in data types, and here are some of the most common ones:
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 1. **Integer (**`int`**)**
     
     * Represents whole numbers (positive or negative) without a decimal point.
