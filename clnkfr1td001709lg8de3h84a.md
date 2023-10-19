@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Accepting user input is a common task in Python, and it allows your programs to interact with users by taking data from them. You can use the `input()` function to read user input from the keyboard. Here's a step-by-step guide on how to accept user input in Python:
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 **Using the** `input()` **Function:**
 
 The `input()` function reads a line of text entered by the user and returns it as a string. Here's a simple example:
