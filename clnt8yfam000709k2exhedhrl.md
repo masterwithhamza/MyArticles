@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Loops are a powerful programming concept in Python that allows you to repeat a set of instructions multiple times. They help automate tasks, process large amounts of data, and make your code more efficient. In this beginner-friendly guide, we will explore the two main types of loops in Python: `for` loops and `while` loops.
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 ## `for` **Loop**
 
 A `for` loop is used to iterate over a sequence (such as a list, tuple, string, or range) and execute a block of code for each item in that sequence. Here's the basic structure of a `for` loop:
