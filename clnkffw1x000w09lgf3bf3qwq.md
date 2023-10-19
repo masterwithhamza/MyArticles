@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Functions are a fundamental concept in Python and programming in general. They allow you to break down your code into manageable, reusable blocks, making your programs more organized and easier to understand. In this beginner-friendly article, we'll explore what functions are, how to define and use them, and why they are essential in Python.
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 ## **What is a Function?**
 
 A function in Python is a named block of code that performs a specific task or set of tasks. Functions are like mini-programs within your program. They take some input (known as arguments or parameters), perform operations on it, and return a result. Functions are designed to be reusable, so you can call them whenever you need that specific task to be performed.
