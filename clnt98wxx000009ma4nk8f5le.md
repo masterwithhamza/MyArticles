@@ -10,6 +10,8 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Lists and sets are two popular data structures in Python that allow you to store and manipulate collections of items. In this beginner-friendly guide, we'll explore lists and sets, including how to create and manipulate them, and when to use each of them in your Python programs.
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 ## **Lists in Python**
 
 A list is a collection of values, often of different data types, that are ordered and mutable. Lists are created by enclosing a comma-separated sequence of items in square brackets `[ ]`. Here's how you can work with lists:
