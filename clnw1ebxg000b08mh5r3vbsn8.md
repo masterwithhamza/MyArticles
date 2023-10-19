@@ -10,11 +10,13 @@ tags: python, devops, python-beginner, devops-articles, masterwithhamza
 
 Packages in Python are a way to organize and distribute code. A package is a collection of Python modules (files with Python code) that are related and organized into directories. They allow you to create reusable code, manage large projects, and share code with others.
 
+**My Python codes:** [https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git](https://masterwithhamza@bitbucket.org/hamxaflutterapps/mypythoncodes.git)
+
 ### **PyPI (Python Package Index)**
 
 The Python Package Index, commonly known as PyPI, is a repository of Python packages contributed by the Python community. PyPI is a central hub for hosting and distributing Python packages. You can find packages for a wide range of purposes, from web development frameworks to data analysis libraries.
 
-### `pip` **- Python Package Installer**
+### `pip` **\- Python Package Installer**
 
 `pip` is a command-line tool used to install, upgrade, and manage Python packages. It's the most common way to download and install Python packages from PyPI. Here are some basic `pip` commands:
 
