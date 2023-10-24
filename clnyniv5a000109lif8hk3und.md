@@ -58,6 +58,8 @@ To run a shell script, follow these steps:
 
 Your script will run, and the output will be displayed in the terminal.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698121303411/c56e3e97-49ea-43a0-b6e9-362b59be7dbc.png align="center")
+
 ## **Conclusion**
 
 Shell scripting is a valuable skill that can save time, reduce manual work, and enhance your understanding of the operating system. In this article, you've been introduced to the concept of shell scripting, its benefits, and the basics of creating and running a simple shell script. As you become more familiar with shell scripting, you can explore more complex tasks and develop scripts to suit your specific needs. Shell scripting is a versatile and practical skill that can significantly improve your efficiency as a computer user or administrator.
