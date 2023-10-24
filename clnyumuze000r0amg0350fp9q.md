@@ -28,6 +28,8 @@ fi
 
 In this script, if the condition `$number -gt 10` is true, it will print "The number is greater than 10."
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698121865645/a9d2b984-7933-439e-86ad-61df07a89cf2.png align="center")
+
 ## **The 'if-else' Statement**
 
 The 'if-else' statement extends the 'if' statement to handle an alternative action when the condition is false:
@@ -35,28 +37,35 @@ The 'if-else' statement extends the 'if' statement to handle an alternative acti
 ```bash
 #!/bin/bash
 
-username="Alice"
+username="hamza"
 
-if [ "$username" == "Alice" ]; then
+if [ "$username" == "hamza" ]; then
     echo "Access granted."
 else
     echo "Access denied."
 fi
 ```
 
+**Output:**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698149335591/45d06e79-489e-47cc-bb14-a828a3b5193b.png align="center")
+
 ## **The 'elif' Statement**
 
 When you have multiple conditions to check, you can use 'elif' to evaluate them one by one. The script executes the code block of the first true condition it encounters:
 
 ```bash
-if [ condition1 ]; then
-    # Code to execute if condition1 is true
-elif [ condition2 ]; then
-    # Code to execute if condition2 is true
+grade="A"
+if [ "$grade"=="A" ]; then
+    echo "congratulation hamza you got A Grade"
+elif [ "$grade"=="B" ]; then
+    echo "hamza, you got B grade"
 else
-    # Code to execute if neither condition1 nor condition2 is true
+    echo "failed"
 fi
 ```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698149707039/428ba75f-213d-4d3f-b459-75098e45be0c.png align="center")
 
 ## **Conclusion**
 
