@@ -35,6 +35,8 @@ print("Hello, Python!")
 
 Now, save the file with a ".py" extension, like "[hello.py](http://hello.py)." The ".py" tells the computer that this is a Python program. Next, open your terminal or command prompt and navigate to the folder where you saved your "[hello.py](http://hello.py)" file.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201043982/e113815d-bd8c-475d-a389-37da12a1da21.png align="center")
+
 ## **Conclusion**
 
 Python is a beginner-friendly programming language that's perfect for those new to coding. In this article, you've taken your first steps by writing a simple Python program and learning about variables and data types. Remember, practice is key, so keep experimenting and building to become a confident Python programmer. Happy coding!
