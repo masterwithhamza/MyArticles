@@ -42,6 +42,8 @@ fi
 3. Run the script: `./disk_space_monitor.sh`.
     
 
+![](https://miro.medium.com/v2/resize:fit:700/1*V9hEoWKjZAzBsQ2RRP6_Yg.png align="left")
+
 ## **Conclusion**
 
 Monitoring disk space is a vital aspect of system maintenance, ensuring your computer operates smoothly and data remains safe. With the disk space monitoring script provided in this article, you can regularly check your partition's free space and receive warnings when it falls below a specified threshold. This proactive approach will help you take timely actions to address disk space issues and maintain a healthy and efficient computing environment.
