@@ -45,6 +45,8 @@ sum_result = add_numbers(5, 3)
 print(sum_result)  # This will print 8
 ```
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201547431/03e2d1ff-5ad9-4030-bee3-f9036bcab2a0.png align="center")
+
 ## **Conclusion**
 
 Functions are a vital concept in Python programming. They provide structure, reusability, and clarity to your code. As you continue your Python journey, you'll encounter built-in functions and libraries, and you'll also create your own custom functions to solve various problems. Understanding how to define, call, and document functions is a crucial step in becoming a proficient Python programmer.
