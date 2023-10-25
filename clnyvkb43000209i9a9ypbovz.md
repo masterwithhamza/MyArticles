@@ -30,6 +30,8 @@ To call a function, you simply use its name, followed by parentheses. For instan
 greet
 ```
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698198105804/1ac47464-15e4-4dee-9252-0cd4ef2fa47c.png align="center")
+
 ## **Passing Arguments to Functions**
 
 Functions can also accept arguments, which allow you to customize their behaviour. Arguments are accessed within the function using the `$1`, `$2`, `$3`, and so on, where `$1` represents the first argument, `$2` represents the second, and so forth. Here's an example of a function that accepts two arguments and prints a personalized greeting:
@@ -39,8 +41,10 @@ greet_with_hamza() {
     echo "Hello, $1!"
 }
 
-greet_with_hamza "Alice"
+greet_with_hamza "hamza"
 ```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698198303846/f99aa322-6342-44c3-8244-ab3b8fbad172.png align="center")
 
 ## **Conclusion**
 
