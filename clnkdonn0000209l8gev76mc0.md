@@ -71,4 +71,6 @@ print("Hello, World!")
 2. To run your program, right-click anywhere in the code editor and select "Run 'hello'." You should see "Hello, World!" displayed in the console at the bottom of the PyCharm window.
     
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201103757/decd10d5-8d45-4229-aa40-39ed84090eb6.png align="center")
+
 Congratulations! You've successfully installed PyCharm on Windows and written your first Python program. You're now ready to explore more of Python's capabilities and start building your own projects.
