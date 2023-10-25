@@ -53,6 +53,8 @@ Sets do not support indexing, so you cannot directly access elements by their po
 is_present = 3 in my_set      # Check if 3 is in the set (True)
 ```
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698202045210/5591b632-75e7-4bf9-b90e-ab4da33a4ce1.png align="center")
+
 ## **When to Use Lists or Sets**
 
 * Use **lists** when you need to maintain order and may have duplicate elements.
