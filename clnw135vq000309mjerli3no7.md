@@ -45,6 +45,8 @@ del my_dict['city']  # Remove the 'city' key-value pair
 my_dict.pop('age')   # Remove the 'age' key-value pair and return its value
 ```
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698202129484/404f3219-f05a-4519-8588-006828e0c13f.png align="center")
+
 # **Conclusion**
 
 In Python, dictionaries are powerful data structures for organizing and managing collections of key-value pairs. They provide flexibility, efficiency, and easy access to data. Dictionaries are commonly used for tasks like configuration settings, data processing, and representing complex relationships between entities. By understanding how to create, access, modify, and work with dictionaries, you can handle a wide range of data-related tasks in Python.
