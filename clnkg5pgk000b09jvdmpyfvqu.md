@@ -34,6 +34,8 @@ if age >= 18:
 
 In this example, if the `age` is greater than or equal to 18, the message "You are an adult." will be printed.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201690186/9d2e5317-85bb-49f7-94ff-d5fc98d8a7ce.png align="center")
+
 ## **The** `else` Statement
 
 The `else` statement is used in conjunction with an `if` statement to provide an alternative code block to execute when the `if` condition is `False`. Here's how it works:
@@ -57,6 +59,8 @@ else:
 ```
 
 In this example, if the `age` is less than 18, the message "You are a minor." will be printed because the condition in the `if` statement is `False`.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201720142/d7e2253a-10af-41cc-8db0-1c0a39f01ec4.png align="center")
 
 ## **The** `elif` Statement
 
@@ -87,6 +91,8 @@ else:
 ```
 
 In this example, the program evaluates the grade and prints the corresponding letter grade based on the conditions.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201748066/9f2d4a5d-34a0-42d9-818b-e5b253d71267.png align="center")
 
 ## **Conclusion**
 
