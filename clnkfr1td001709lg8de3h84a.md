@@ -45,4 +45,6 @@ age = int(age_str)
 print("Hello, " + user_input + "!")  # Printing a greeting
 ```
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201634073/710e8339-25e5-45e8-8e20-e1ed8d628539.png align="center")
+
 That's how you can accept user input in Python. It's a powerful way to make your programs interactive and dynamic, and it opens up countless possibilities for creating user-friendly applications.
