@@ -23,7 +23,7 @@ To declare a variable, you simply choose a name for it and assign a value using 
 ```python
 # Variable assignment
 age = 30
-name = "Alice"
+name = "Hamza"
 pi = 3.14
 is_student = True
 ```
@@ -42,6 +42,11 @@ is_student = True
 You can use variables in various ways, such as in calculations, as part of strings, or in control structures like loops and conditionals:
 
 ```python
+# Variable assignment
+age = 30
+name = "Hamza"
+pi = 3.14
+is_student = True
 # Using variables in calculations
 result = age * 2
 
@@ -52,6 +57,8 @@ greeting = "Hello, " + name
 if is_student:
     print(name + " is a student.")
 ```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201297921/4f4f7334-8c15-45b6-bd84-d7094cebc701.png align="center")
 
 ## **Comments in Python**
 
@@ -78,9 +85,8 @@ In Python, variables are used to store and manage data. You can think of a varia
 To declare a variable, you simply choose a name for it and assign a value using the assignment operator `=`. You don't need to explicitly specify the data type; Python infers it automatically.
 
 ```python
-pythonCopy code# Variable assignment
 age = 30
-name = "Alice"
+name = "Hamza"
 pi = 3.14
 is_student = True
 ```
@@ -99,7 +105,6 @@ is_student = True
 You can use variables in various ways, such as in calculations, as part of strings, or in control structures like loops and conditionals:
 
 ```python
-pythonCopy code# Using variables in calculations
 result = age * 2
 
 # Using variables in strings (string concatenation)
@@ -109,6 +114,8 @@ greeting = "Hello, " + name
 if is_student:
     print(name + " is a student.")
 ```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201430399/9412ead0-7bb3-4e77-92d5-88c92dc1fa53.png align="center")
 
 ## **Comments in Python**
 
