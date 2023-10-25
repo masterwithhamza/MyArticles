@@ -23,6 +23,8 @@ do
 done
 ```
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698199490686/1f5964b6-fc09-4948-b2d2-502b01c4bdeb.png align="center")
+
 You can also use a "for" loop to iterate over a list of items, such as files in a directory:
 
 ```bash
@@ -36,6 +38,8 @@ done
 ```
 
 In this example, the "for" loop iterates over the files in the specified directory and acts on each file.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698199750913/196e8450-6713-467a-a6ea-4e7db5c85696.png align="center")
 
 ## **The "while" Loop**
 
@@ -54,6 +58,8 @@ done
 ```
 
 You can use a "while" loop to process data until a certain condition is met, making it suitable for tasks where the number of iterations is unknown in advance.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698200510387/a194713c-9bf3-49e9-a0fb-124e592c33b6.png align="center")
 
 ## **Conclusion**
 
