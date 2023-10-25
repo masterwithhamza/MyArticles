@@ -32,6 +32,8 @@ for fruit in fruits:
 
 In this example, the `for` loop iterates through the list of fruits and prints each fruit's name.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201896130/9e5af645-9bf1-44e2-bcd7-9ae798d25d2c.png align="center")
+
 ### **Example:**
 
 ```python
@@ -40,6 +42,8 @@ for i in range(5):
 ```
 
 This `for` loop prints the numbers from 0 to 4 because `range(5)` generates a sequence of numbers from 0 to 4.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201917952/ac2d52ca-c148-41e7-87e2-58fa144f9f30.png align="center")
 
 ## `while` **Loop**
 
@@ -61,6 +65,8 @@ while count < 5:
 ```
 
 In this example, the `while` loop continues to execute as long as the `count` is less than 5. It prints the value of `count` and increment it until the condition is no longer `True`.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201943628/277926b1-18fa-422d-8f55-de5ba43fd065.png align="center")
 
 ## **Conclusion**
 
