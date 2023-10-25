@@ -41,6 +41,8 @@ except ValueError:
 
 In this example, the `try` block attempts to get user input, perform a division operation, and print the result. If the user enters zero, it raises a `ZeroDivisionError`. If the user enters something that's not a number, it raises a `ValueError`. The corresponding `except` blocks handle each of these exceptions gracefully.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698201841797/b451e57c-d275-4396-87c7-54efc92b4e8b.png align="center")
+
 ## **Conclusion**
 
 Error handling with `try` and `except` is an essential aspect of writing robust Python programs. It allows you to anticipate and manage exceptions, making your code more reliable and user-friendly. As you gain more experience in Python, you'll develop a better understanding of when and how to use error handling effectively in your programs.
