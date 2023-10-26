@@ -27,6 +27,8 @@ Cron jobs are defined using a specific syntax that specifies when the job should
 * **Day of Week (0-7)**: The day of the week when the job should run (both 0 and 7 represent Sunday).
     
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698284252390/9ad1def1-2db8-4936-812f-9ee9a145816a.png align="center")
+
 ### **3\. Cron Special Characters**
 
 In addition to numeric values, the cron syntax allows for special characters:
