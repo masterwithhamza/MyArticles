@@ -1,8 +1,8 @@
 ---
-title: "Docker Images: A Guide to Understanding, Building, and Sharing"
+title: "Lecture3 # Docker Images: A Guide to Understanding, Building, and Sharing"
 datePublished: Fri Dec 08 2023 17:21:09 GMT+0000 (Coordinated Universal Time)
 cuid: clpww8k54000208jobhuo9i5r
-slug: docker-images-a-guide-to-understanding-building-and-sharing
+slug: lecture3-docker-images-a-guide-to-understanding-building-and-sharing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702055978924/f10e586d-9872-4dd8-bf44-c7187bda4f2d.png
 tags: docker, devops, docker-images, devops-articles, masterwithhamza
 
